@@ -1,2 +1,1 @@
-- 👋 Hi, @LostMikely here! I'm an ex comp.sci. student, now studying business administration and learning more programming in the meantime just for fun.
-- 🌱 I’m currently learning Next.js and Go.
+Sup?
